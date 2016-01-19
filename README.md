@@ -5,9 +5,9 @@ This is the community node repo.
 
 ### Question one
 
-  first
-  second
-  third
+  - first
+  - second
+  - third
 
 ### Question two
 
